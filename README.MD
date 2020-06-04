@@ -10,7 +10,11 @@ run ./matlab/houghscript.m
 # Results: 
 inside ./results/
 
-![Edges](results/img01_01edge.png)
+Sobel Filter and Non-Maximal Supression Result:  
+![Edges](results/img01_01edge.png)  
+Thresholded Image Result:  
 ![Threshold](results/img01_02threshold.png)
+Hough Transform:  
 ![Hough Trasnform](results/img01_03hough.png)
+Predicted Edges:  
 ![Lines](results/img01_04lines.png)
